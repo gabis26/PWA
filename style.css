@@ -1,0 +1,54 @@
+
+
+header{
+    background-color:#031634 ;
+    color: aliceblue;
+    
+}
+
+.navbar-brand img{
+    width: 40%;
+
+  
+    
+}
+
+
+.mundo img{
+    width: 100%;
+}
+
+.deportes img{
+    width: 100%;
+}
+
+
+
+div.row{
+    justify-content: center;
+}
+
+
+footer{
+    background-color: #031634;
+    height: 30px;
+    color: aliceblue;
+}
+
+section{
+    padding-top: 10px;
+
+}
+
+
+form{
+    padding:20px 0 20px 0;
+    text-align: center;
+}
+
+
+
+
+.bojaPoruke{
+    color:red;
+}
